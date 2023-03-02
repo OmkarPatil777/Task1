@@ -3,7 +3,7 @@
     width: 275px;
     margin: auto;
     min-height: 400px;
-    box-shadow: 0 8px 50px -7px black;
+    box-shadow: 0 8px 50px -7px rgb(255, 0, 0);
     background: #3A4655;
 }
 /*Calculator Display Screen*/
